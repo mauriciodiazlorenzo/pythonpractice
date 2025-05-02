@@ -1,0 +1,96 @@
+_____ Array
+[X] Two Sum
+[O] Best Time to Buy and Sell Stock
+[O] Contains Duplicate
+[O] Product of Array Except Self
+[O] Maximum Subarray
+[O] Maximum Product Subarray
+[O] Find Minimum in Rotated Sorted Array
+[O] Search in Rotated Sorted Array
+[O] 3Sum
+[O] Container With Most Water
+
+_____ Binary
+[O] Sum of Two Integers
+[O] Number of 1 Bits
+[O] Counting Bits
+[O] Missing Number
+[O] Reverse Bits
+
+_____ Dynamic Programming
+[O] Climbing Stairs
+[O] Coin Change
+[O] Longest Increasing Subsequence
+[O] Longest Common Subsequence
+[O] Word Break Problem
+[O] Combination Sum
+[O] House Robber
+[O] House Robber II
+[O] Decode Ways
+[O] Unique Paths
+[O] Jump Game
+
+_____ Graph
+[O]  Clone Graph
+[O]  Course Schedule
+[O]  Pacific Atlantic Water Flow
+[O]  Number of Islands
+[O]  Longest Consecutive Sequence
+[O]  Alien Dictionary (Leetcode Premium)
+[O]  Graph Valid Tree (Leetcode Premium)
+[O]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+
+_____ Interval
+[O]  Insert Interval
+[O]  Merge Intervals
+[O]  Non-overlapping Intervals
+[O]  Meeting Rooms (Leetcode Premium)
+[O]  Meeting Rooms II (Leetcode Premium)
+
+_____ Linked List
+[O]  Reverse a Linked List
+[O]  Detect Cycle in a Linked List
+[O]  Merge Two Sorted Lists
+[O]  Merge K Sorted Lists
+[O]  Remove Nth Node From End Of List
+[O]  Reorder List
+
+_____ Matrix
+[O]  Set Matrix Zeroes
+[O]  Spiral Matrix
+[O]  Rotate Image
+[O]  Word Search
+
+_____ String
+[O]  Longest Substring Without Repeating Characters
+[O]  Longest Repeating Character Replacement
+[O]  Minimum Window Substring
+[O]  Valid Anagram
+[O]  Group Anagrams
+[O]  Valid Parentheses
+[O]  Valid Palindrome
+[O]  Longest Palindromic Substring
+[O]  Palindromic Substrings
+[O]  Encode and Decode Strings (Leetcode Premium)
+
+_____ Tree
+[O]  Maximum Depth of Binary Tree
+[O]  Same Tree
+[O]  Invert/Flip Binary Tree
+[O]  Binary Tree Maximum Path Sum
+[O]  Binary Tree Level Order Traversal
+[O]  Serialize and Deserialize Binary Tree
+[O]  Subtree of Another Tree
+[O]  Construct Binary Tree from Preorder and Inorder Traversal
+[O]  Validate Binary Search Tree
+[O]  Kth Smallest Element in a BST
+[O]  Lowest Common Ancestor of BST
+[O]  Implement Trie (Prefix Tree)
+[O]  Add and Search Word
+[O]  Word Search II
+
+_____ Heap
+[O]  Merge K Sorted Lists
+[O]  Top K Frequent Elements
+[O]  Find Median from Data Stream
+
