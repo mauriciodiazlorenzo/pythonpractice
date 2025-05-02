@@ -1,6 +1,7 @@
-_____ Array
+
+_____ Array (10)
 [X] Two Sum
-[O] Best Time to Buy and Sell Stock
+[X] Best Time to Buy and Sell Stock
 [O] Contains Duplicate
 [O] Product of Array Except Self
 [O] Maximum Subarray
@@ -10,14 +11,14 @@ _____ Array
 [O] 3Sum
 [O] Container With Most Water
 
-_____ Binary
+_____ Binary (5)
 [O] Sum of Two Integers
 [O] Number of 1 Bits
 [O] Counting Bits
 [O] Missing Number
 [O] Reverse Bits
 
-_____ Dynamic Programming
+_____ Dynamic Programming (11)
 [O] Climbing Stairs
 [O] Coin Change
 [O] Longest Increasing Subsequence
@@ -30,7 +31,7 @@ _____ Dynamic Programming
 [O] Unique Paths
 [O] Jump Game
 
-_____ Graph
+_____ Graph (8)
 [O]  Clone Graph
 [O]  Course Schedule
 [O]  Pacific Atlantic Water Flow
@@ -40,14 +41,14 @@ _____ Graph
 [O]  Graph Valid Tree (Leetcode Premium)
 [O]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
-_____ Interval
+_____ Interval (5)
 [O]  Insert Interval
 [O]  Merge Intervals
 [O]  Non-overlapping Intervals
 [O]  Meeting Rooms (Leetcode Premium)
 [O]  Meeting Rooms II (Leetcode Premium)
 
-_____ Linked List
+_____ Linked List (6)
 [O]  Reverse a Linked List
 [O]  Detect Cycle in a Linked List
 [O]  Merge Two Sorted Lists
@@ -55,13 +56,13 @@ _____ Linked List
 [O]  Remove Nth Node From End Of List
 [O]  Reorder List
 
-_____ Matrix
-[O]  Set Matrix Zeroes
+_____ Matrix (4)
+[X]  Set Matrix Zeroes
 [O]  Spiral Matrix
 [O]  Rotate Image
 [O]  Word Search
 
-_____ String
+_____ String (10)
 [O]  Longest Substring Without Repeating Characters
 [O]  Longest Repeating Character Replacement
 [O]  Minimum Window Substring
@@ -73,7 +74,7 @@ _____ String
 [O]  Palindromic Substrings
 [O]  Encode and Decode Strings (Leetcode Premium)
 
-_____ Tree
+_____ Tree (14)
 [O]  Maximum Depth of Binary Tree
 [O]  Same Tree
 [O]  Invert/Flip Binary Tree
@@ -89,8 +90,7 @@ _____ Tree
 [O]  Add and Search Word
 [O]  Word Search II
 
-_____ Heap
+_____ Heap (3)
 [O]  Merge K Sorted Lists
 [O]  Top K Frequent Elements
 [O]  Find Median from Data Stream
-
