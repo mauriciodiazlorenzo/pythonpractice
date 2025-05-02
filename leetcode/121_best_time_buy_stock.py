@@ -8,8 +8,10 @@ class Solution:
         for i, p in enumerate(prices):
             if p<incumbent_min:
                 incumbent_min = p
-            elif p-incumbent_min>max_profit:
-                max_profit = p-incumbent_min
+            else:
+                profit = p-incumbent_min
+                if profit>max_profit:
+                    max_profit = profit
             # commented part is correct but a bit slower since it always performs multiple operations
             # incumbent_min = min(incumbent_min, p)
             # max_profit = max(max_profit, p - incumbent_min)
