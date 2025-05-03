@@ -12,7 +12,7 @@ _____ Array (10)
 [O] Container With Most Water
 
 _____ Binary (5)
-[O] Sum of Two Integers
+[X] Sum of Two Integers
 [O] Number of 1 Bits
 [O] Counting Bits
 [O] Missing Number

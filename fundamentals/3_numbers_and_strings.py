@@ -10,3 +10,19 @@ import random
 print(random.randrange(50,60))
 print(random.random()) # 0 to 1 float
 # numpy.random is much more rich
+
+print('hello'=="hello") # double and single quotes are equivalent
+print("it's working") # single quote within double quote
+print('my name is "Mauricio"')
+x= """ multiline string 
+with triple quotes"""
+x='''multiline
+string'''
+print(x)
+
+mystring="a string is a char array"
+print(mystring[-1]) # print last char
+mystring = "abcdef"
+for x in mystring: # iterate through the chars in mystring
+    print(x)
+print(len(mystring)) # number of chars in string
