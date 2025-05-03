@@ -2,8 +2,8 @@
 _____ Array (10)
 [X] Two Sum
 [X] Best Time to Buy and Sell Stock
-[O] Contains Duplicate
-[O] Product of Array Except Self
+[X] Contains Duplicate
+[X] Product of Array Except Self
 [O] Maximum Subarray
 [O] Maximum Product Subarray
 [O] Find Minimum in Rotated Sorted Array
@@ -16,7 +16,7 @@ _____ Binary (5)
 [X] Number of 1 Bits
 [X] Counting Bits
 [X] Missing Number
-[O] Reverse Bits
+[X] Reverse Bits
 
 _____ Dynamic Programming (11)
 [O] Climbing Stairs
