@@ -13,9 +13,9 @@ _____ Array (10)
 
 _____ Binary (5)
 [X] Sum of Two Integers
-[O] Number of 1 Bits
-[O] Counting Bits
-[O] Missing Number
+[X] Number of 1 Bits
+[X] Counting Bits
+[X] Missing Number
 [O] Reverse Bits
 
 _____ Dynamic Programming (11)

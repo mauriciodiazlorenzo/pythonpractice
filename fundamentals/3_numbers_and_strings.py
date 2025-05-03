@@ -25,4 +25,44 @@ print(mystring[-1]) # print last char
 mystring = "abcdef"
 for x in mystring: # iterate through the chars in mystring
     print(x)
+
 print(len(mystring)) # number of chars in string
+
+x = "substring" in "text with a substring contained" # bool
+print(x)
+print("teststring" not in "some other string") # bool
+
+# subset of the char array may be selected like any other array
+x = "a short string of words"
+print(x[2:7]) # index 2 to 6, "short"
+print(x[:7]) # index 0 to 6, "a short"
+print(x[8:])# index 8 to end
+
+x="123456789"
+print(x[-1]) # last char
+print(x[-3:]) # last 3 chars
+print(x[:-3]) # all except last three chars
+
+x = "A Short String of Words"
+# upper case
+x=x.upper()
+print(x)
+x=x.lower()
+print(x)
+
+x="      trailing space         "
+print(x.strip()) # "trailing space" trimmed on both sides
+print(x.strip().replace("space","behind")) # "space" replaced by "behind" -> "trailing behind"
+
+x="1,2,3,4,5,6,7"
+print(x.split(',')) # turns into an array
+
+x="hello " + "world" # string concatenation with plus operator
+print(x)
+
+# escape with backslash
+x = 'it\'s a \'free\' world'
+print(x)
+# \\ backslash, \n newline, \r carriage return, \t tab, \b backspace, \f form feed, \xhh hex val
+
+# there are many other string functions: https://www.w3schools.com/python/python_strings_methods.asp

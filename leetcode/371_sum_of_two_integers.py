@@ -43,3 +43,19 @@ print(binary_subtract_positive(999,999))
 
 # bitwise complement ~x = -x-1
 # for cases like 50 - 100, do 100 - 50 and then multiply by minus one -> ~(100-50)+1
+
+
+def getSum(self, a: int, b: int) -> int:
+    if a * b >= 0:  # same sign, straightforward
+        return binary_add_positive(a, b)
+    else:  # subtraction is trickier
+        if a < 0:
+            x = b
+            y = a
+        else:
+            x = a
+            y = b
+        if x >= abs(y):
+            return binary_subtract_positive(x, abs(y))
+        else:
+            return -1 * binary_subtract_positive(abs(y), x)
