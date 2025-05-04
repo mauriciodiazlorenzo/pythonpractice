@@ -1,14 +1,13 @@
-
 _____ Array (10)
 [X] Two Sum
 [X] Best Time to Buy and Sell Stock
 [X] Contains Duplicate
 [X] Product of Array Except Self
-[O] Maximum Subarray
-[O] Maximum Product Subarray
-[O] Find Minimum in Rotated Sorted Array
-[O] Search in Rotated Sorted Array
-[O] 3Sum
+[X] Maximum Subarray
+[X] Maximum Product Subarray
+[X] Find Minimum in Rotated Sorted Array
+[X] Search in Rotated Sorted Array
+[X] 3Sum
 [O] Container With Most Water
 
 _____ Binary (5)
