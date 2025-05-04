@@ -18,8 +18,8 @@ _____ Binary (5)
 [X] Reverse Bits
 
 _____ Dynamic Programming (11)
-[O] Climbing Stairs
-[O] Coin Change
+[X] Climbing Stairs
+[X] Coin Change
 [O] Longest Increasing Subsequence
 [O] Longest Common Subsequence
 [O] Word Break Problem
