@@ -30,26 +30,23 @@ _____ Dynamic Programming (11)
 [O] Unique Paths
 [O] Jump Game
 
-_____ Graph (8)
+_____ Graph (5)
 [O]  Clone Graph
 [O]  Course Schedule
 [O]  Pacific Atlantic Water Flow
 [O]  Number of Islands
 [O]  Longest Consecutive Sequence
-[O]  Alien Dictionary (Leetcode Premium)
-[O]  Graph Valid Tree (Leetcode Premium)
-[O]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
-_____ Interval (5)
+
+_____ Interval (3)
 [O]  Insert Interval
 [O]  Merge Intervals
 [O]  Non-overlapping Intervals
-[O]  Meeting Rooms (Leetcode Premium)
-[O]  Meeting Rooms II (Leetcode Premium)
+
 
 _____ Linked List (6)
-[O]  Reverse a Linked List
-[O]  Detect Cycle in a Linked List
+[X]  Reverse a Linked List
+[X]  Detect Cycle in a Linked List
 [O]  Merge Two Sorted Lists
 [O]  Merge K Sorted Lists
 [O]  Remove Nth Node From End Of List
@@ -61,7 +58,7 @@ _____ Matrix (4)
 [O]  Rotate Image
 [O]  Word Search
 
-_____ String (10)
+_____ String (9)
 [O]  Longest Substring Without Repeating Characters
 [O]  Longest Repeating Character Replacement
 [O]  Minimum Window Substring
@@ -71,11 +68,10 @@ _____ String (10)
 [O]  Valid Palindrome
 [O]  Longest Palindromic Substring
 [O]  Palindromic Substrings
-[O]  Encode and Decode Strings (Leetcode Premium)
 
 _____ Tree (14)
-[O]  Maximum Depth of Binary Tree
-[O]  Same Tree
+[x]  Maximum Depth of Binary Tree
+[X]  Same Tree
 [O]  Invert/Flip Binary Tree
 [O]  Binary Tree Maximum Path Sum
 [O]  Binary Tree Level Order Traversal
@@ -93,3 +89,12 @@ _____ Heap (3)
 [O]  Merge K Sorted Lists
 [O]  Top K Frequent Elements
 [O]  Find Median from Data Stream
+
+
+_____ Premium only: Graph (3), Interval (2), String(1)
+[O]  Alien Dictionary (Leetcode Premium)
+[O]  Graph Valid Tree (Leetcode Premium)
+[O]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+[O]  Meeting Rooms (Leetcode Premium)
+[O]  Meeting Rooms II (Leetcode Premium)
+[O]  Encode and Decode Strings (Leetcode Premium)
